@@ -51,7 +51,7 @@ $allproducts = $products->fetchAll(PDO::FETCH_OBJ);
                     </div>
                 </div>
             </div>
-            <?php endforeach; ?>
+            <?php "endforeach"; ?>
             <br>
            
                 </div>
